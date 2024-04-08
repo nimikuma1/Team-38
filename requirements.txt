@@ -3,4 +3,5 @@ openai
 flask_sqlalchemy
 flask_login
 datetime
+Gunicorn
 
