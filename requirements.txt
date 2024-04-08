@@ -1,7 +1,6 @@
 Flask
 openai
 flask_sqlalchemy
-werkzeug.security
 flask_login
 datetime
 os
